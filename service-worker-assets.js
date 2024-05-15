@@ -97,7 +97,7 @@
       "url": "syncfusion-blazor-pdfviewer.min.js"
     },
     {
-      "hash": "sha256-1S+a5RkzXt3pVEShVGCcGDgwQdobcFkpU6kz8dyoJjQ=",
+      "hash": "sha256-Zqbq0OuiW3\/0TR0pBZNWIJhIQeixrxy1niB7GYAgaS4=",
       "url": "syncfusion-blazor-sfpdfviewer.min.js"
     },
     {
@@ -121,11 +121,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-RhAt50RpxtDML14ulv8pSfeDk8\/HnazeJZuOA8VLzLA=",
+      "hash": "sha256-ctwlzD8P2hIYHtwNVxpSgq+9bDic8mw2OC6YsAhJ+Pw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-miqFH5MNIjolSggq2QnmQfgRclIezUaL8iaBdrKNLMs=",
+      "hash": "sha256-5MdONNrS25eDc9k99eRq8OjBqex\/GmmysPXWADdWHSo=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -261,7 +261,7 @@
       "url": "_framework\/Syncfusion.Blazor.Popups.dll"
     },
     {
-      "hash": "sha256-6AE0niOa64Yy4bxQzKlhXg7DQeHWFtF60DGzWC3UJh8=",
+      "hash": "sha256-7tr0kzqAeFiwHwHB6EhLnKzn+Rf1HqOq49xfvIYV\/Jw=",
       "url": "_framework\/Syncfusion.Blazor.SfPdfViewer.dll"
     },
     {
@@ -285,7 +285,7 @@
       "url": "_framework\/Syncfusion.Licensing.dll"
     },
     {
-      "hash": "sha256-50iDyMnPD4Shz75pyT3Oh6Wjoe14b4+4ij6CZ4KzzKc=",
+      "hash": "sha256-XZ5BiPq8ZUgYSx08B5\/UQ\/RJlLpWa0IY3IEHLqWB5a4=",
       "url": "_framework\/Syncfusion.Pdf.Portable.dll"
     },
     {
@@ -849,5 +849,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind-dark.css"
     }
   ],
-  "version": "oJP+m96n"
+  "version": "i9g3NleG"
 };
